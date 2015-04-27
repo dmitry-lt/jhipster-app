@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "lms",
+    "packageName": "lms",
+    "packageFolder": "lms",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "aa5ccbc528c514e55065793c8d0fc753f873218f"
+  }
+}
