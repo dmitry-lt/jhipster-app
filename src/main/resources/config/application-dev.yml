@@ -9,8 +9,8 @@ spring:
         url: 
         databaseName: lms
         serverName: localhost
-        username: lms
-        password: 
+        username: postgres
+        password: admin
 
     jpa:
         database-platform: org.hibernate.dialect.PostgreSQL82Dialect
