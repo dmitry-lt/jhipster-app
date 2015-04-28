@@ -28,6 +28,7 @@ angular.module('lmsApp')
  */
     .constant('LANGUAGES', [
         'en', 'fr'
+        ,'ru'
         //JHipster will add new languages here
     ]
 );
