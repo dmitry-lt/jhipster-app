@@ -3,7 +3,7 @@
     "baseName": "lms",
     "packageName": "lms",
     "packageFolder": "lms",
-    "authenticationType": "session",
+    "authenticationType": "xauth",
     "hibernateCache": "ehcache",
     "clusteredHttpSession": "no",
     "websocket": "no",
@@ -14,6 +14,6 @@
     "buildTool": "maven",
     "frontendBuilder": "grunt",
     "javaVersion": "8",
-    "rememberMeKey": "aa5ccbc528c514e55065793c8d0fc753f873218f"
+    "rememberMeKey": "d6133b9826d9c534120c80f96bec78a24a67369c"
   }
 }
